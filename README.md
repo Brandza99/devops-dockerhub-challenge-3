@@ -1,4 +1,4 @@
-#Ovo je samo test 
+#DevOps DockerHub Challenge 3 - v2
 
 Projekat radi da testira da li je internet stranica u redu , DNS (Domain name system),URL i port.
 
